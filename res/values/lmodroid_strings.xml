@@ -726,4 +726,10 @@
     <string name="transistent_task_mode_allow">Enable (Some apps will stay)</string>
     <string name="transistent_task_mode_force">Force (Override app behaviour)</string>
 
+    <!-- SELinux Status -->
+    <string name="selinux_status">SELinux status</string>
+    <string name="selinux_status_disabled">Disabled</string>
+    <string name="selinux_status_permissive">Permissive</string>
+    <string name="selinux_status_enforcing">Enforcing</string>
+
 </resources>
