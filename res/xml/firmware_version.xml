@@ -21,10 +21,11 @@
     android:title="@string/firmware_version"
     settings:keywords="@string/keywords_android_version">
 
-<PreferenceScreen
-    android:layout="@layout/lmo_logo"
-    android:key="lmo_logo"
-    android:selectable="false" />
+    <!-- AmogOS logo -->
+    <PreferenceScreen
+        android:layout="@layout/amog_logo"
+        android:key="amog_logo"
+        android:selectable="false" />
 
     <!-- Android version -->
     <Preference
