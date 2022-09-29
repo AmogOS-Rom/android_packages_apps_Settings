@@ -73,6 +73,13 @@
             settings:controller="com.android.settings.display.DarkUIPreferenceController"
             settings:keywords="@string/keywords_dark_ui_mode"/>
 
+        <com.android.settings.support.SecureSettingListPreference
+            android:key="qs_tile_shape"
+            android:title="@string/qs_tile_shape"
+            android:entries="@array/qs_tile_shape_entries"
+            android:entryValues="@array/qs_tile_shape_values"
+            android:defaultValue="2" />
+
         <Preference
             android:fragment="com.android.settings.accessibility.TextReadingPreferenceFragment"
             android:key="text_reading_options"
