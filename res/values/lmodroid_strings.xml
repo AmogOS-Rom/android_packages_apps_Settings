@@ -742,4 +742,8 @@
     <string name="qs_panel_options_title">Quick settings</string>
     <string name="qs_panel_options_summary">Customize quick settings tiles</string>
     <string name="category_name_qs_tiles">QS tiles</string>
+
+    <!-- Maintainer -->
+    <string name="maintainer">Maintainer</string>
+
 </resources>
