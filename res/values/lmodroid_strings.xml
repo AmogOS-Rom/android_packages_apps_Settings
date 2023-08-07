@@ -239,6 +239,7 @@
     <string name="power_menu_bug_report_devoptions_unavailable">Bug reporting is disabled as development settings aren\'t enabled</string>
     <string name="power_menu_bug_report_unavailable_for_user">Bug reporting is disabled for non-primary users.</string>
     <string name="power_menu_emergency_title">Emergency</string>
+    <string name="power_menu_emergency_affordance_enabled">Emergency affordance is enabled</string>
     <string name="power_menu_devicecontrols_title">Device controls</string>
     <string name="power_menu_advanced_restart_title">Advanced restart</string>
     <string name="power_menu_advanced_restart_summary">When unlocked, include options in the power menu for restarting into recovery or bootloader</string>
@@ -585,6 +586,8 @@
 
     <!-- Private DNS -->
     <string name="private_dns_mode_cloudflare" translatable="false">Cloudflare DNS</string>
+    <!-- Alternative: 1dot1dot1dot1.cloudflare-dns.com -->
+    <string name="private_dns_hostname_cloudflare" translatable="false">one.one.one.one</string>
 
     <!-- Text shown for the title of the panic option -->
     <string name="power_menu_panic_title">Panic trigger</string>
@@ -714,13 +717,13 @@
     <string name="prevent_pointer_acceleration_pointer">Pointer only</string>
     <string name="prevent_pointer_acceleration_none">None</string>
 
-    <!-- Transistent task mode (Tadi mode) -->
-    <string name="transistent_task_mode_title">Transistent task mode</string>
-    <string name="transistent_task_mode_dialog_title">Transistent task mode (Reboot your device to apply changes)</string>
-    <string name="transistent_task_mode_summary">Dismiss apps from recents when last activity gets closed using back button.</string>
-    <string name="transistent_task_mode_default">Disable (Default)</string>
-    <string name="transistent_task_mode_allow">Enable (Some apps will stay)</string>
-    <string name="transistent_task_mode_force">Force (Override app behaviour)</string>
+    <!-- Transient task mode (Tadi mode) -->
+    <string name="transient_task_mode_title">Transient task mode</string>
+    <string name="transient_task_mode_dialog_title">Transient task mode (Reboot your device to apply changes)</string>
+    <string name="transient_task_mode_summary">Dismiss apps from recents when last activity gets closed using back button.</string>
+    <string name="transient_task_mode_default">Disable (Default)</string>
+    <string name="transient_task_mode_allow">Enable (Some apps will stay)</string>
+    <string name="transient_task_mode_force">Force (Override app behaviour)</string>
 
     <!-- SELinux Status -->
     <string name="selinux_status">SELinux status</string>
