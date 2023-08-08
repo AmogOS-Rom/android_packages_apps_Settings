@@ -731,11 +731,6 @@
     <string name="selinux_status_permissive">Permissive</string>
     <string name="selinux_status_enforcing">Enforcing</string>
 
-    <!-- QS style -->
-    <string name="qs_style_title">QS Panel style</string>
-    <string name="qs_style_default">Large pill</string>
-    <string name="qs_style_round">Small circle</string>
-
     <!-- QS tile shape -->
     <string name="qs_tile_shape">QS tile shape</string>
     <string name="qs_tile_round">Round</string>
