@@ -753,7 +753,9 @@
     <string name="qqs_columns_landscape">QQS columns in landscape</string>
     <string name="qqs_columns_landscape_min" translatable="false">@string/qs_columns_landscape_min</string>
     <string name="qqs_columns_landscape_max" translatable="false">@string/qs_columns_landscape_max</string>
-
+    <string name="qs_ui_title">Quick Settings UI</string>
+    <string name="qs_two_tone_trans">Two-Tone Translucent</string>
+    <string name="android_eleven">Android 11</string>
     <!-- Maintainer -->
     <string name="maintainer">Maintainer</string>
 
