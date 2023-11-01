@@ -51,4 +51,13 @@
     <!-- Whether SELinux status should be shown or not. -->
     <bool name="config_show_selinux_status">true</bool>
 
+    <!-- Whether to show Assisted GPS switch in Locations settings -->
+    <bool name="config_show_assisted_gps_switch">true</bool>
+
+    <!-- Whether to show LMO features (button, status bar) in System settings -->
+    <bool name="config_show_lmo_features_settings">true</bool>
+
+    <!-- Whether to show Ambient Edge Light feature in Settings Options -->
+    <bool name="config_show_ambient_edge_light">true</bool>
+
 </resources>
