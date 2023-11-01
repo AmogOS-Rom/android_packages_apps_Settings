@@ -731,29 +731,6 @@
     <string name="selinux_status_permissive">Permissive</string>
     <string name="selinux_status_enforcing">Enforcing</string>
 
-    <!-- QS tile shape -->
-    <string name="qs_tile_shape">QS tile shape</string>
-    <string name="qs_tile_round">Round</string>
-    <string name="qs_tile_rect">Rounded Rectangle</string>
-    <string name="qs_tile_mix">Round for active tiles and Rounded Rectangle for inactive tiles</string>
-
-    <!-- QS panel -->
-    <string name="qs_panel_options_title">Quick settings</string>
-    <string name="qs_panel_options_summary">Customize quick settings tiles</string>
-    <string name="category_name_qs_tiles">QS tiles</string>
-    <string name="qs_columns">QS columns in portrait</string>
-    <string name="qs_columns_min" translatable="false">2</string>
-    <string name="qs_columns_max" translatable="false">5</string>
-    <string name="qs_columns_landscape">QS columns in landscape</string>
-    <string name="qs_columns_landscape_min" translatable="false">@string/qs_columns_min</string>
-    <string name="qs_columns_landscape_max" translatable="false">6</string>
-    <string name="qqs_columns">QQS columns in portrait</string>
-    <string name="qqs_columns_min" translatable="false">@string/qs_columns_min</string>
-    <string name="qqs_columns_max" translatable="false">@string/qs_columns_max</string>
-    <string name="qqs_columns_landscape">QQS columns in landscape</string>
-    <string name="qqs_columns_landscape_min" translatable="false">@string/qs_columns_landscape_min</string>
-    <string name="qqs_columns_landscape_max" translatable="false">@string/qs_columns_landscape_max</string>
-
     <!-- Maintainer -->
     <string name="maintainer">Maintainer</string>
 
