@@ -756,4 +756,18 @@
     <string name="ambient_edge_light_repeat_count_title">Repeat count</string>
     <string name="ambient_edge_light_width_title">Light width</string>
 
+    <!-- QS tile shape -->
+    <string name="qs_tile_shape">QS tile shape</string>
+    <string name="qs_tile_round">Round</string>
+    <string name="qs_tile_rect">Rounded Rectangle</string>
+    <string name="qs_tile_mix">Round for active tiles and Rounded Rectangle for inactive tiles</string>
+
+    <!-- QS panel -->
+    <string name="qs_panel_options_title">Quick settings</string>
+    <string name="qs_panel_options_summary">Customize quick settings tiles</string>
+    <string name="category_name_qs_tiles">QS tiles</string>
+
+    <!-- Maintainer -->
+    <string name="maintainer">Maintainer</string>
+
 </resources>
