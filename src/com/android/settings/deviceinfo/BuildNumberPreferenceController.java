@@ -71,14 +71,14 @@ public class BuildNumberPreferenceController extends BasePreferenceController im
 
     public final static java.lang.String[] insults = {
             "Hahaha, n00b!",
-            "What are you doing??",
+            "Are you an impostor??",
             "n00b alert!",
             "What is this...? Amateur hour!?",
             "This is not Windows",
             "Please step away from the device!",
             "error code: 1D10T",
             "Go outside",
-            "¯\\_(ツ)_/¯",
+            "ඞඞඞ",
             "Pro tip: Stop doing this!",
             "Y u no speak computer???",
             "Why are you so stupid?!",
