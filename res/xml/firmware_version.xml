@@ -22,8 +22,8 @@
     settings:keywords="@string/keywords_android_version">
 
     <com.android.settingslib.widget.LayoutPreference
-        android:layout="@layout/lmo_logo"
-        android:key="lmo_logo"
+        android:layout="@layout/amog_logo"
+        android:key="amog_logo"
         android:selectable="false" />
 
     <!-- Android version -->
