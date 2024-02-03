@@ -114,8 +114,8 @@
 
     <SwitchPreference
         android:key="adblock_enabled"
+        android:icon="@drawable/ic_privacy_shield_24dp"
         android:title="@string/enable_adblock"
-        android:summary="@string/enable_adblock_summary"
         settings:controller="com.android.settings.privacy.AdBlockPreferenceController"/>
 
 </PreferenceScreen>
