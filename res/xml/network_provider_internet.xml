@@ -111,4 +111,11 @@
         android:summary="@string/summary_placeholder"
         android:order="25"
         settings:controller="com.android.settings.network.AdaptiveConnectivityPreferenceController"/>
+
+    <SwitchPreference
+        android:key="adblock_enabled"
+        android:title="@string/enable_adblock"
+        android:summary="@string/enable_adblock_summary"
+        settings:controller="com.android.settings.privacy.AdBlockPreferenceController"/>
+
 </PreferenceScreen>

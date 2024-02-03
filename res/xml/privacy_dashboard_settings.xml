@@ -162,5 +162,4 @@
         android:summary="@string/enable_adblock_summary"
         settings:controller="com.android.settings.privacy.AdBlockPreferenceController"/>
 
-
 </PreferenceScreen>
