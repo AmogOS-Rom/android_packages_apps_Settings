@@ -12636,4 +12636,10 @@
 
     <string name="doze_gesture_ambient_title">Show Ambient</string>
     <string name="doze_gesture_ambient_summary">Show Ambient Display instead of fully waking the screen up</string>
+
+    <!-- Lockscreen Weather -->
+    <string name="lockscreen_weather_toggle">Enable lockscreen weather</string>
+    <string name="weather_settings_title">Weather settings</string>
+    <string name="weather_settings_summary">Setup icon pack and weather service</string>
+    <string name="lockscreen_weather_text_title">Current condition</string>
 </resources>
