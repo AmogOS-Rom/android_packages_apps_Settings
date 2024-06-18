@@ -78,7 +78,7 @@
     <!-- Notification volume -->
     <com.android.settings.notification.VolumeSeekBarPreference
         android:key="notification_volume"
-        android:icon="@drawable/ic_notifications"
+        android:icon="@drawable/ic_notifications_og"
         android:title="@string/notification_volume_option_title"
         android:order="-150"
         settings:userRestriction="no_adjust_volume"

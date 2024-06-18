@@ -1,26 +1,14 @@
-<!--
-    Copyright (C) 2017 The Android Open Source Project
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-         http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-        android:width="24dp"
-        android:height="24dp"
-        android:viewportWidth="24.0"
-        android:viewportHeight="24.0"
-        android:tint="?android:attr/colorControlNormal">
-    <path
-        android:pathData="M16,6C16,7.1 16.9,8 18,8C19.1,8 20,7.1 20,6C20,4.9 19.1,4 18,4C16.9,4 16,4.9 16,6ZM6,8C7.1,8 8,7.1 8,6C8,4.9 7.1,4 6,4C4.9,4 4,4.9 4,6C4,7.1 4.9,8 6,8ZM12.001,20C13.101,20 14.001,19.1 14.001,18C14.001,16.9 13.101,16 12.001,16C10.901,16 10.001,16.9 10.001,18C10.001,19.1 10.901,20 12.001,20ZM8.001,18C8.001,19.1 7.101,20 6.001,20C4.901,20 4.001,19.1 4.001,18C4.001,16.9 4.901,16 6.001,16C7.101,16 8.001,16.9 8.001,18ZM6.001,14C7.101,14 8.001,13.1 8.001,12C8.001,10.9 7.101,10 6.001,10C4.901,10 4.001,10.9 4.001,12C4.001,13.1 4.901,14 6.001,14ZM14.001,12C14.001,13.1 13.101,14 12.001,14C10.901,14 10.001,13.1 10.001,12C10.001,10.9 10.901,10 12.001,10C13.101,10 14.001,10.9 14.001,12ZM14.001,6C14.001,7.1 13.101,8 12.001,8C10.901,8 10.001,7.1 10.001,6C10.001,4.9 10.901,4 12.001,4C13.101,4 14.001,4.9 14.001,6ZM18,14C19.1,14 20,13.1 20,12C20,10.9 19.1,10 18,10C16.9,10 16,10.9 16,12C16,13.1 16.9,14 18,14ZM20,18C20,19.1 19.1,20 18,20C16.9,20 16,19.1 16,18C16,16.9 16.9,16 18,16C19.1,16 20,16.9 20,18Z"
-        android:fillType="evenOdd"
-        android:fillColor="?android:attr/colorPrimary"/>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="512"
+    android:viewportHeight="512"
+    android:width="512dp"
+    android:height="512dp">
+    <group>
+        <clip-path
+            android:pathData="M256 0H256A256 256 0 0 1 512 256V256A256 256 0 0 1 256 512H256A256 256 0 0 1 0 256V256A256 256 0 0 1 256 0Z" />
+        <path
+            android:pathData="M256 512C397.385 512 512 397.385 512 256C512 114.615 397.385 0 256 0C114.615 0 0 114.615 0 256C0 397.385 114.615 512 256 512ZM170.667 142.223C154.958 142.223 142.223 154.958 142.223 170.667V213.334C142.223 229.043 154.958 241.778 170.667 241.778H213.334C229.043 241.778 241.778 229.043 241.778 213.334V170.667C241.778 154.958 229.043 142.223 213.334 142.223H170.667ZM270.223 170.667C270.223 154.958 282.958 142.223 298.667 142.223H341.334C357.043 142.223 369.778 154.958 369.778 170.667V213.334C369.778 229.043 357.043 241.778 341.334 241.778H298.667C282.958 241.778 270.223 229.043 270.223 213.334V170.667ZM270.223 298.667C270.223 282.958 282.958 270.223 298.667 270.223H341.334C357.043 270.223 369.778 282.958 369.778 298.667V341.334C369.778 357.043 357.043 369.778 341.334 369.778H298.667C282.958 369.778 270.223 357.043 270.223 341.334V298.667ZM142.223 298.667C142.223 282.958 154.958 270.223 170.667 270.223H213.334C229.043 270.223 241.778 282.958 241.778 298.667V341.334C241.778 357.043 229.043 369.778 213.334 369.778H170.667C154.958 369.778 142.223 357.043 142.223 341.334V298.667Z"
+            android:fillType="evenOdd"
+            android:fillColor="#000000" />
+    </group>
 </vector>

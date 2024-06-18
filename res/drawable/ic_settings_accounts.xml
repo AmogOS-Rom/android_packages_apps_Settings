@@ -1,29 +1,14 @@
-<!--
-    Copyright (C) 2016 The Android Open Source Project
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-         http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-        android:width="24dp"
-        android:height="24dp"
-        android:viewportWidth="24.0"
-        android:viewportHeight="24.0">
-    <path
-        android:pathData="M19,3H5C3.89,3 3,3.9 3,5V19C3,20.1 3.89,21 5,21H19C20.1,21 21,20.1 21,19V5C21,3.9 20.1,3 19,3ZM19,5V15.79C16.52,14.37 13.23,14 12,14C10.77,14 7.48,14.37 5,15.79V5H19ZM5,18.23V19H19V18.23C17.26,16.66 13.68,16 12,16C10.32,16 6.74,16.66 5,18.23Z"
-        android:fillType="evenOdd"
-        android:fillColor="?android:attr/colorPrimary"/>
-    <path
-        android:pathData="M15.5,9.5C15.5,11.44 13.94,13 12,13C10.06,13 8.5,11.44 8.5,9.5C8.5,7.56 10.06,6 12,6C13.94,6 15.5,7.56 15.5,9.5ZM13.5,9.5C13.5,8.67 12.83,8 12,8C11.17,8 10.5,8.67 10.5,9.5C10.5,10.33 11.17,11 12,11C12.83,11 13.5,10.33 13.5,9.5Z"
-        android:fillType="evenOdd"
-        android:fillColor="?android:attr/colorPrimary"/>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="512"
+    android:viewportHeight="512"
+    android:width="512dp"
+    android:height="512dp">
+    <group>
+        <clip-path
+            android:pathData="M256 0H256A256 256 0 0 1 512 256V256A256 256 0 0 1 256 512H256A256 256 0 0 1 0 256V256A256 256 0 0 1 256 0Z" />
+        <path
+            android:pathData="M256 512C397.385 512 512 397.385 512 256C512 114.615 397.385 0 256 0C114.615 0 0 114.615 0 256C0 397.385 114.615 512 256 512ZM323 168C323 205.003 293.003 235 256 235C218.997 235 189 205.003 189 168C189 130.997 218.997 101 256 101C293.003 101 323 130.997 323 168ZM103.469 324.095C140.331 281.181 194.992 254 256.001 254C317.01 254 371.67 281.181 408.533 324.094C382.472 382.383 323.98 423 256.001 423C188.022 423 129.53 382.383 103.469 324.095Z"
+            android:fillType="evenOdd"
+            android:fillColor="#000000" />
+    </group>
 </vector>

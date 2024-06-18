@@ -22,6 +22,8 @@ import androidx.compose.material.icons.outlined.Notifications
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.res.stringResource
 import com.android.settings.R
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.res.vectorResource
 import com.android.settingslib.spa.framework.common.SettingsEntryBuilder
 import com.android.settingslib.spa.framework.common.SettingsPageProvider
 import com.android.settingslib.spa.framework.common.SpaEnvironmentFactory
@@ -58,7 +60,7 @@ object NotificationMainPageProvider : SettingsPageProvider {
                     override val summary = { summary }
                     override val onClick = navigator(name)
                     override val icon = @Composable {
-                        SettingsIcon(imageVector = Icons.Outlined.Notifications)
+                        SettingsIcon(ImageVector.vectorResource(R.drawable.ic_notifications))
                     }
                 })
             }

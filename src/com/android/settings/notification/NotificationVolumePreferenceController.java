@@ -53,7 +53,7 @@ public class NotificationVolumePreferenceController extends
     public NotificationVolumePreferenceController(Context context, String key) {
         super(context, key, TAG);
 
-        mNormalIconId =  R.drawable.ic_notifications;
+        mNormalIconId =  R.drawable.ic_notifications_og;
         mVibrateIconId = R.drawable.ic_volume_ringer_vibrate;
         mSilentIconId = R.drawable.ic_notifications_off_24dp;
 
