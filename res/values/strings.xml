@@ -12642,4 +12642,9 @@
     <string name="weather_settings_title">Weather settings</string>
     <string name="weather_settings_summary">Setup icon pack and weather service</string>
     <string name="lockscreen_weather_text_title">Current condition</string>
+
+    <!-- Credits -->
+    <string name="leafos_credits">Thanks to the LeafOS Team</string>
+    <string name="leafos_credits_summary">This feature was developed by the LeafOS Team and adapted for amogOS</string>
+
 </resources>

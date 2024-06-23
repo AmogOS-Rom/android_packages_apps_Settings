@@ -36,7 +36,7 @@ public class LockscreenWeatherPreferenceController extends BasePreferenceControl
     }
 
     @Override
-    public void updateState(Preference preference) {;
+    public void updateState(Preference preference) {
         if (preference == toggle) {
             int mode = Settings.System.getInt(mContext.getContentResolver(),
                     "lockscreen_weather_enabled", SETTING_VALUE_OFF);
@@ -54,7 +54,7 @@ public class LockscreenWeatherPreferenceController extends BasePreferenceControl
     }
 
     @Override
-    public boolean onPreferenceChange(Preference preference, Object newValue) {;
+    public boolean onPreferenceChange(Preference preference, Object newValue) {
         final boolean isEnabled = (Boolean) newValue;
         if (preference == toggle) {
         Settings.System.putInt(mContext.getContentResolver(),
